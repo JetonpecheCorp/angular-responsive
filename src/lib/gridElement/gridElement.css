@@ -1,0 +1,10 @@
+:host {
+  /* :host fait référence à <jp-grid-element> */
+  border: 1px solid red;
+
+  /* C'est aussi une bonne idée d'ajouter du padding ici */
+  padding: 16px;
+
+  /* Assure que le composant se comporte bien comme un bloc */
+  display: block; 
+}

@@ -1,0 +1,4 @@
+:host(.grid-container)
+{
+    display: grid;
+}
