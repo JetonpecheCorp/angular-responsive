@@ -17,7 +17,7 @@
 - `gridFlowLg`: Organisation des elements de la grid sur taille d'écran LG et plus
 - `gridFlowXl`: Organisation des elements de la grid sur taille d'écran XL
 
-## Information 
+## Information
 `gridFlow*`: voir [cette page](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-flow)
 
 # Sub grid container

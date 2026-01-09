@@ -1,5 +1,5 @@
 import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
-import { ChangeDetectionStrategy, computed, HostBinding, inject, input, signal } from '@angular/core';
+import { ChangeDetectionStrategy, computed, HostBinding, inject, input } from '@angular/core';
 import { Component } from '@angular/core';
 import { toSignal } from '@angular/core/rxjs-interop';
 import { map } from 'rxjs';
