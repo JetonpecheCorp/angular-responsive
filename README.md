@@ -1,6 +1,6 @@
 # Angular Responsive Grid
 
-A lightweight, directive-based responsive grid system for Angular (17+ / 22) powered by CSS Grid and native Signals.
+A lightweight, directive-based responsive grid system for Angular 21+ powered by CSS Grid and native Signals.
 
 Eliminate container wrapper boilerplate (`<jp-grid-container>`, `<jp-grid-element>`). Build flexible, responsive grid layouts by attaching directives directly to semantic HTML elements.
 
